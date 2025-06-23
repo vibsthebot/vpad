@@ -3,7 +3,7 @@
 vpad is a wired, split, and ortholinear mechanical keyboard. both sides of the keyboard use the same board, and are connected using a ten wire cable. each half uses a 5x5 key matrix using choc v1 switches. 
 
 ## Features
-well its just a simple keyboard, but its orthol
+well its just a simple keyboard, but its ortholinear, split, and choc!
 
 ## Firmware Overview
 - Layer 0 - QWERTY (Default)
